@@ -3,7 +3,7 @@
 //! Numerical Algorithms Collections In Fortran 77 Written by Liu Fei Yu & Li                 !
 //! Translate into C++ for easy access by Bao Biwen                                           !
 //! Created on 2020.06.26 with Version 1.0                                                    !
-//! Chapter 2 Interpolation and numerical differeting                                         !
+//! Chapter 2 Interpolation and numerical differentials                                        !
 //!===========================================================================================!
 //!===========================================================================================!
 
